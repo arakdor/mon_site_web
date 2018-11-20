@@ -1,3 +1,4 @@
 tmp/toto.txt
 tmp/*
+*.txt
 *.xml
